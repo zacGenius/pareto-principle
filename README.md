@@ -12,7 +12,7 @@ A minimalist landing page explaining the 80/20 rule (Pareto Principle) with clea
 - **Hosting**: GithubPages
 
 ## Live Demo
-👉 [Pareto Principle - Site](https://your-username.github.io/pareto-principle)
+👉 [Pareto Principle - Site](https://zacgenius.github.io/pareto-principle)
 
 ## How to Contribute
 1. Fork the repository
