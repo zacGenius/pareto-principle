@@ -1,15 +1,24 @@
-# "Lei de Pareto" em HTML, CSS e JavaScript
+# Pareto Principle Landing Page
 
-Este projeto é uma explicação interativa criada para exibir habilidades e projetos utilizando HTML, CSS e JavaScript.
+A minimalist landing page explaining the 80/20 rule (Pareto Principle) with clean design and practical examples. Built with modern web technologies to demonstrate how small efforts can yield disproportionate results.
 
-## Como usar
-1. Clone este repositório: `git clone <url_do_repositorio>`
-2. Abra o arquivo `index.html` em seu navegador.
+## Key Features
+- 📊 Interactive visualization of the 80/20 distribution
+- ✨ Animated examples showing Pareto applications
 
-## Tecnologias utilizadas
-- HTML
-- CSS
-- JavaScript
+## Tech Stack
+- **Frontend**: HTML5, CSS3, JavaScript 
+- **Styling**: Tailwind + CSS variables
+- **Hosting**: GithubPages
 
-## Contribuição
-Caso tenha sugestões ou queira contribuir, envie um pull request. 
+## Live Demo
+👉 [Pareto Principle - Site](https://your-username.github.io/pareto-principle)
+
+## How to Contribute
+1. Fork the repository
+2. Create your feature branch (`git checkout -b feature/amazing-feature`)
+3. Commit your changes (`git commit -m 'Add some amazing feature'`)
+4. Push to the branch (`git push origin feature/amazing-feature`)
+5. Open a Pull Request
+
+*"Vital few over trivial many" - Vilfredo Pareto*
