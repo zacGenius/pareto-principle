@@ -11,7 +11,7 @@ A minimalist landing page explaining the 80/20 rule (Pareto Principle) with clea
 - **Styling**: Tailwind + CSS variables
 - **Hosting**: GithubPages
 
-## Live Demo
+## Pareto Principle - Landing Page
 👉 [Pareto Principle - Site](https://zacgenius.github.io/pareto-principle)
 
 ## How to Contribute
